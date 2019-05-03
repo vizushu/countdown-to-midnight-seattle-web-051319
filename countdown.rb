@@ -3,7 +3,7 @@
 def countdown(argument)
   argument = 0
   while argument < 
-  
+  argument -= 1
 end
 
 
