@@ -6,8 +6,8 @@ def countdown(number)
     puts "#{number} SECOND(S)!"
   number -=
 end
-  
-
+  return "HAPPY NEW YEAR!"
+end
 
 counter = 0
 while counter < 20
